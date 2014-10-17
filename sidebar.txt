@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sub:home|Door43 (sub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sub|d43-sub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sub/archive/master.zip|d43-sub.zip]]
+
+**Recent Changes**
+{{changes>ns = sub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sub|Ethnologue data]]
+
